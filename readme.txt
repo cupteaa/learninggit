@@ -7,3 +7,4 @@ add remote git repository!!successfully!!
 creating a new branch is quick!! very nice!
 create a new branch again!!!!
 create a new branch is quick AND simple.
+branch management stratege.
